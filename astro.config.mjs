@@ -19,6 +19,22 @@ export default defineConfig({
               name: 'EvalHub Team',
               url: 'https://github.com/eval-hub',
             },
+            sagar: {
+              name: 'Narayan Sagar',
+              url: 'https://github.com/nbs-rh',
+            },
+            prabhu: {
+              name: 'Prabhu Padashetty',
+              url: 'https://github.com/ppadashe-psp',
+            },
+            sobha: {
+              name: 'Sobha Cheruku',
+              url: 'https://github.com/scheruku-rh',
+            },
+            biak: {
+              name: 'Gin Biak Naulak',
+              url: 'https://github.com/gnaulak-redhat',
+            },
           },
         }),
         starlightClientMermaid(),
