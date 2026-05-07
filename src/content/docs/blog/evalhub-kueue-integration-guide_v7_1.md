@@ -2,24 +2,15 @@
 title: "Integrating Kueue with EvalHub: A Complete Guide to Production-Ready LLM Evaluation Job Management"
 date: 2026-05-06T00:00:00.000Z
 authors:
-  - Narayan Sagar 
-  - Prabhu Padashetty 
-  - Sobha Cheruku 
-  - Gin Biak Naulak 
+  - sagar 
+  - prabhu
+  - sobha
+  - biak
+
 excerpt: >
   EvalHub is a service for running LLM (Large Language Model) evaluation benchmarks in Kubernetes environments. As organizations scale their AI/ML workloads, they face increasing challenges around resource management, fair sharing, and job prioritization. This is where Kueue comes in.
 
   **Kueue** is a Kubernetes-native job queueing system that provides sophisticated workload management capabilities. This guide explores why and how to integrate Kueue with EvalHub to build a production-ready evaluation platform.
----
-
-# Integrating Kueue with EvalHub: A Complete Guide to Production-Ready LLM Evaluation Job Management
-
-**Author:** Narayan Sagar, Prabhu Padashetty, Sobha Cheruku, Gin Biak Naulak 
-
-**Date:** April 2026  
-
-**Target Audience:** Platform Engineers, ML Engineers, Cluster Administrators
-
 ---
 
 ## Introduction
